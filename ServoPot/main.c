@@ -1,9 +1,5 @@
 /*SERVO MOTOR
      //P3.5 -> Pino do PWM
-
-    //2ms -> 0
-    //1,5ms -> -45 (direciona para a direita)
-    //2,5ms-> 45 (direciona para a esquerda)
  */
 
 
